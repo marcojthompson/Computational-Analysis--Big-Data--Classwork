@@ -1,0 +1,238 @@
+{{short description|American animated television series}}
+{{Distinguish|Captain Earth}}
+{{about|the TV series|the video game based on this TV series|Captain Planet and the Planeteers (video game)}}
+{{Use mdy dates|date=April 2021}}
+{{Infobox television
+| name                 = Captain Planet and the Planeteers
+| alt_name             = The New Adventures of Captain Planet
+| image                = Captain Planet and the Planeteers title.jpg
+| genre                = [[Superhero fiction]]<br />[[Action fiction|Action]]<br />[[Adventure fiction|Adventure]]<br />[[Edutainment]]<br />
+| runtime              = 25 minutes
+| creator              = [[Ted Turner]]<br />[[Barbara Pyle]]<br />Robert Larkin III
+| developer            = Nicholas Boxer<br />[[Thom Beers]]<br />[[Andy Heyward]]<br />Robby London<br />Barbara Pyle<br />[[Bob Forward]]<br />Cassandra Schafausen
+| director             = Will Meugniot<br />Jim Duffy<br />Stan Phillips<br />Vincent Davis<br />Marsha Goodman <small>(voice director) (seasons 1-3)</small>
+| producer             = Cos Anzilotti<br />Cassandra Schafausen<br />Larry Houston (season 1)<br />Jim Duffy (season 2)<br />Stan Phillips (season 3)
+| executive_producer   = [[Andy Heyward]] (seasons 1-3)<br />Robby London (seasons 1-3)<br />Barbara Pyle<br />Nicholas Boxer<br />Belinda Devreemtoes<br />Ted Turner
+| composer             = Tom Worrall (seasons 1-3)<br />Thomas Chase Jones (seasons 4-6)<br />[[Stephen Rucker|Steve Rucker]]  (seasons 4-6)
+| company              = [[DIC Entertainment|DIC Enterprises]]<br />(seasons 1–3)<br />[[Hanna-Barbera|Hanna-Barbera Cartoons]]<br />(seasons 4–6)
+| distributor          = [[Turner Program Services]]
+| voices               = [[David Coburn (actor)|David Coburn]]<br />[[LeVar Burton]]<br />[[Joey Dedio]]<br />[[Kath Soucie]]<br />[[Janice Kawaye]]<br />[[Scott Menville]]<br />[[Frank Welker]]<br />[[Whoopi Goldberg]] (seasons 1–3)<br />[[Margot Kidder]] (seasons 4-6)
+| country              = United States
+| language             = English
+| network              = [[TBS (U.S. TV channel)|TBS]]
+| first_aired          = {{start date|1990|9|15}}
+| last_aired           = {{end date|1996|5|11}}
+| num_seasons          = 6
+| num_episodes         = 113
+| list_episodes        = List of Captain Planet episodes
+|followed_by           =
+| related              =
+| website              = https://web.archive.org/web/20080612134526/http://www.turner.com/planet/
+}}
+'''''Captain Planet and the Planeteers''''' is an American [[Animated television series|animated]] environmentalist [[Superhero fiction|superhero]] television series created by [[Barbara Pyle]] and [[Ted Turner]]<ref name="BPyle">{{cite web|url=https://www.barbarapyle.com/captain/#gsc.tab=0|title=Barbara Pyle, with Ted Turner and Robert Larkin III created the animated action series Captain Planet and the Planeteers|last=Pyle|first=Barbara|publisher=Barbara Pyle Productions|access-date=January 12, 2012}}</ref> and developed by Pyle, Nicholas Boxer, Thom Beers, Andy Heyward, Robby London, Bob Forward and Cassandra Schafausen. The series was produced by [[Turner Program Services]] and [[DIC Entertainment|DIC Enterprises]] and 
+United States broadcast on [[TBS (U.S. TV channel)|TBS]] from September 15, 1990, to December 5, 1992, and United Kingdom broadcast on [[TV-am]] from 1991, to 1992, [[GMTV]] from 1993, to 1996, And [[Cartoon Network (British and Irish TV channel)|Cartoon Network]] from 1994, to 1999.<ref name="bcdb1">"[https://www.bcdb.com/cartoons/Other_Studios/D/DiC_Entertainment/Captain_Planet_And_The_Planeteers/index.html Captain Planet And The Planeteers]". ''www.bcdb.com'', April 12, 2012</ref> A sequel series, '''''The New Adventures of Captain Planet''''', was produced by [[Hanna-Barbera|Hanna-Barbera Cartoons, Inc.]], distributed by [[Turner Program Services]] and United States broadcast from September 11, 1993, to May 11, 1996.<ref name="bcdb2">"[https://www.bcdb.com/cartoons/Other_Studios/D/DiC_Entertainment/Captain_Planet_And_The_Planeteers/index.html The New Adventures of Captain Planet ]". ''www.bcdb.com'', April 12, 2012</ref> Both series continue today in [[Broadcast syndication|syndication]].<ref>{{cite news|url= https://www.nytimes.com/2006/04/22/arts/on-boomerang-captain-planet-wins-a-life-beyond-reruns.html
+|title= An Aging Superhero Wins a Life Beyond Reruns|access-date=March 13, 2010 |work= The New York Times |date= April 22, 2006| first=Elizabeth | last=Jensen}}</ref> The program is a form of [[Educational entertainment|edutainment]] and advocates environmentalism and is known for having a number of famous actors providing voices for the villains.<ref name="Environment p 16">Captain Planet Zooms to the Rescue of the Environment, Washington Post – September 16, 1990</ref><ref name="Szymanski">{{cite news|title= Captain Planet: Here He Comes to Save the Day |work= The Los Angeles Times|date=February 3, 1990|url= https://www.latimes.com/archives/la-xpm-1990-02-03-ca-990-story.html|access-date=August 24, 2010 | first=Michael | last=Szymanski}}</ref> The show spawned a franchise consisting of a charity, and video games.
+
+{{TOC limit|limit=3}}
+
+==Plot==
+{{bquote|Our world is in peril. Gaia, the spirit of the Earth, can no longer stand the terrible destruction plaguing our planet. She sends five magic rings to five special young people: Kwame, from Africa, with the power of Earth... From North America, Wheeler, with the power of Fire... From Eastern Europe, Linka, with the power of Wind. From Asia, Gi, with the power of Water... and from South America, Ma-Ti, with the power of Heart. When the five powers combine, they summon Earth's greatest champion, Captain Planet. The power is yours!|Opening Narration}}
+Every episode is followed up with at least one "''Planeteer Alert''" clip, often connected to the plot, where environmental-political and other social-political issues are discussed and how the viewer can contribute and be part of "the solution" rather than "the pollution".<ref>{{cite web|url=http://data.fcc.gov/mediabureau/v01/tv/application/KidVid_72709.html|title=Children's Television Programming Report|publisher=Federal Communications Commission|language=en|date=December 30, 2006|access-date=March 14, 2015}}</ref>
+
+==Characters==
+===Gaia===
+'''[[Gaia]]''' (voiced by [[Whoopi Goldberg]] in seasons 1-3, [[Margot Kidder]] in seasons 4-6), is the spirit of the planet who sends five magic rings – four with the power to control an [[Classical element#Classical elements in Greece|element of nature]] and one controlling the element of Heart – to five chosen youths across the globe. She claims to have been asleep for the entire 20th Century and awoken to see a more polluted world than when she was last awake, however this is contradicted by a flashback episode set in the 1920s in which people get guidance from Gaia.
+
+Her physical manifestation is that of a beautiful black woman. In the two-part episode "Summit to Save Earth" where her rival Zarm had defeated her, Gaia was shown as an old, frail woman, with Zarm explaining that given the Earth's several billion years of existence, it would make sense for Gaia to be superannuated in appearance.
+
+===Captain Planet===
+In situations that the Planeteers cannot resolve alone, they can combine their planetary powers to summon the titular '''Captain Planet''' (voiced by [[David Coburn (actor)|David Coburn]]<ref>{{Cite web|url=https://www.imdb.com/name/nm0167995/|title = David Coburn|website = [[IMDb]]}}</ref>), who is Ma-Ti's magnified heart power in the form of a male blue-skinned superhero [[avatar]] with green [[Mullet (haircut)|mullet]], possessing all of the other Planeteers' amplified powers. Once his work is done, Captain Planet returns to the planet, and leaves viewers with the message: "The power is yours!" Typically, Planet only manifests to deal with the bigger crisis and then departs, but a few storylines have explored him existing beyond these moments, such as when he was summoned while Kwame and Ma-Ti were in space, with the result that the energy from their rings that created Planet could not return to its source, resulting in Planet being forced to operate on a human level, such as requiring a crowbar and handcuff keys to rescue the rest of the team.
+
+===Planeteers===
+[[Image:ThePlaneteers.JPG|thumb|The Planeteers. Clockwise from top left: Gi, Kwame, Linka, Ma-Ti, and Wheeler.]]
+The ''Planeteers'' are tasked with helping defend the planet from environmental disasters and making efforts to educate humankind to keep others from happening. In the beginning of the episodes, Gaia uses her "Planet Vision" in the Crystal Chamber to discover where the most devastating destruction is occurring (in most episodes one or more of the Eco-Villains is behind it) and sends the Planeteers to help solve the problem. The Planeteers use transportation (usually a flying machine called a Geo-Cruiser) based on [[solar power]] to avoid causing pollution themselves.<ref name="Captain Planet: Meet the characters">[https://www.youtube.com/watch?v=D17JpONQNV0 Captain Planet: Meet the characters] Mother Nature Network</ref>
+
+* '''Kwame''' (voiced by [[LeVar Burton]]) – Hailing from Africa, Kwame possesses the power of [[soil|earth]].
+* '''Wheeler''' (voiced by [[Joey Dedio]]) – From Brooklyn, New York City, United States, Wheeler controls the power of [[fire]]. 
+* '''Linka''' (voiced by [[Kath Soucie]]) – From the Soviet Union (Seasons 1 and 2) and Eastern Europe (Seasons 3-6), Linka has the power of [[wind]].
+* '''Gi''' (voiced by [[Janice Kawaye]]) – Hailing from Asia, Gi controls the power of [[water]]. 
+* '''Ma-Ti''' (voiced by [[Scott Menville]]) – From Brazil, Ma-Ti wields the power of [[Kindness|heart]]. 
+** '''Suchi''' (vocal effects provided by [[Frank Welker]]) – Ma-Ti's pet [[spider monkey]].
+
+===Villains===
+====Eco-Villains====
+[[Image:Eco-Villains_United.png|thumb|right|The Eco-Villains. Clockwise from left: Dr. Blight, Verminous Skumm, Duke Nukem, Hoggish Greedly, Zarm, Looten Plunder and Sly Sludge as seen in "Summit to Save Earth" Pt. 1.]]
+The '''Eco-Villains''' are a small group of antagonists who cause danger to the planet through pollution, deforestation, poaching, and other environmentally unsafe activities. They enjoy the destruction they cause to the planet and the harm they bring to obtain wealth, land, or power. The Eco-Villains tend to work alone most of the time, although they're willing to work with one another when it suits their plans. When the Eco-Villains are defeated by Captain Planet and the Planeteers, they would mostly be arrested by the authorities. Only in the two-part episode "Summit to Save Earth" did the entire ensemble of Eco-Villains work as a team with Zarm as the leader. Each of these villains represents a specific way of thought that can cause ecological problems.
+
+* '''Hoggish Greedly''' (voiced by [[Ed Asner]]) – A [[pig]]-like human who represents the dangers of [[overconsumption]] and greed, Hoggish is the first villain Captain Planet and the Planeteers encounter. In the episode "Smog Hog", it's revealed Hoggish has a son named Hoggish Greedly Jr. (voiced by [[Charlie Schlatter]]) who appears only once and had gotten affected by his polluting Road Hog plot. Because of this, Greedly had to work with Captain Planet to save his son's life. In the episode "Hog Tide," it is revealed that he has a grandfather named Don Porkaloin (portrayed as a parody of [[Vito Corleone]] from ''[[The Godfather]]'' and also voiced by Ed Asner) who in the past was defeated by another group of Planeteers. Unlike Hoggish Greedly, Porkaloin became environmentally friendly as shown in the episode "The Ghost of Porkaloin Past".
+** '''Rigger''' (voiced by [[John Ratzenberger]]) – Greedly's main henchman. He once claimed in "The Ghost of Porkaloin Past" that the main reason he works for Greedly is because no one else would hire him. He does sometime question Greedly's orders and shows concern when Greedly's actions hurt the environment though it never has any effect on his boss, and Rigger, for the most part, remains loyal to Greedly. Rigger does all the leg-work while Greedly usually sits around and eats.
+* '''Verminous Skumm''' (voiced by [[Jeff Goldblum]] in season 1, [[Maurice LaMarche]] in season 2–5) – The second villain to appear on the series, he is a part-human, part-rat creature who represents urban blight, disease, and drug abuse. Skumm can control rats and has his own personal [[helicopter]] called The Scum O'Copter. Skumm is responsible for the death of Linka's cousin Boris via drugs in the episode "Mind Pollution". In some of the later episodes, Verminous Skumm partook in war profiteering when selling weapons to different gangs.
+** '''Rat Pack''' – A group of humanoid rats that work for Verminous Skumm.
+* '''Duke N. Nukem''' (voiced by [[Dean Stockwell]] in seasons 1-3, [[Maurice LaMarche]] in seasons 4-6) – A doctor who changed himself into a radioactive yellow rock-skinned [[Mutants in fiction|mutant]] who represents the misuse of [[nuclear power]], and the third villain to appear. He is one of the few Eco-Villains, along with Zarm and Captain Pollution, able to battle Captain Planet one-on-one. Nukem generates radiation to fire off radioactive blasts from his hands and possesses X-Ray vision. [[3D Realms|Apogee]] temporarily renamed the eponymous character of the [[Duke Nukem (1991 video game)|Duke Nukem]] computer game franchise to "Duke Nukum" so as to avoid any possible trademark claims they could face from the producers of Captain Planet. The character was later found to be under no trademark and the games were restored to their original titles.<ref>{{cite web|url=http://legacy.3drealms.com/duke1/index.html |title=3D Realms Site: Duke Nukem I |publisher=3drealms.com |date=July 1, 1991 |access-date=November 15, 2011}}</ref>
+** '''Duke Leadsuit''' (voiced by [[Frank Welker]]) – Duke Nukem's henchman, Leadsuit's name defines his appearance as he wears a full-bodied lead [[hazmat suit]] to withstand the radiation released by Duke Nukem's body. He revealed that he works for Duke Nukem because when Nukem takes over the world, he'll get to be second-in-command. Leadsuit is timid, rarely arguing with Nukem (and always losing if he objects to anything). Leadsuit is afraid of the dark and usually gives in at the slightest trouble.
+* '''Dr. Barbara "Babs" Blight''' (voiced by [[Meg Ryan]] in 1990–1991, [[Mary Kay Bergman]] in 1992–1996, Tessa Auberjonois in ''[[OK K.O.! Let's Be Heroes]]'') – The fourth villain revealed, Dr. Blight is a [[mad scientist]] who represents the dangers of uncontrolled technology and unethical [[scientific experimentation]]. As a result of self-experimentation, the left half of her face is horribly scarred and is usually hidden by her hair. In the episode "Hog Tide," it is revealed that Dr. Blight had a grandmother named Betty Blight who assisted Don Porkaloin in his plot. In the episode "Hollywaste", it is revealed that Dr. Blight has a sister named Bambi (voiced by [[Kath Soucie]]). Bambi calls Blight by her nickname "Babs", but is called "the Headache Woman" in her Eco-Villain name.
+** '''Dr. MAL''' (voiced by [[David Rappaport]] in 1990, [[Tim Curry]] in 1991–1996) – Dr. Blight's [[artificial intelligence]] computerized husband and henchman. He has the ability to hack into other computer systems, take over them and reprogram them mainly to Dr. Blight's specifications. MAL is often the control and main power source of everything in Dr. Blight's labs as well as the vehicles she travels in.
+* '''Looten Plunder''' (voiced by [[James Coburn]] in seasons 1-3, [[Ed Gilbert]] in seasons 4-6) – A wealthy [[Poaching|poacher]] and crooked businessman who represents the evils of unethical business actions. Looten is the sixth villain to appear on ''Captain Planet'' in the seventh episode, "The Last of Her Kind". He is also shown to have a nephew named Robin Plunder. His name was a play on the term "Loot and Plunder", and he was always in the ending credits of every episode when the singer mentioned "Bad guys who like to...loot and plunder!", taken from footage of one episode where a disshelved Plunder sees his scheme in ruins and screams "You will pay for this, Captain Planet!". Plunder is the only eco-villain to come out on top as seen in "Whoo Gives a Hoot" where the Planeteers lose after failing to provide proof to a judge that Plunder was illegally cutting down trees in an old-growth forest.
+** '''Argos Bleak''' (voiced by [[S. Scott Bullock]]) – Looten Plunder's main henchman and [[bodyguard]], he also functions as a [[mercenary]] and carries out most of Plunder's dirty work. Argos seems to have a military background as he is seen in many episodes flying helicopters or other aircraft, and is proficient in handling firearms. Argos even got his own episode "The Preditor", where he appeared without his boss to hunt down sharks. Another time where Plunder conspired with Hoggish Greedily, Argos Bleak was seen arguing with Rigger as to who was the better Eco-Villain.
+** '''Pinehead Brothers''' (voiced by [[Richard Gautier|Dick Gautier]] and [[Frank Welker]]) – Oakey and Dokey are two oversized [[lumberjack]]s that are Looten Plunder's henchmen in the final season of "The New Adventures of Captain Planet."
+* '''Prof. Sly Sludge''' (voiced by [[Martin Sheen]] in Seasons 1-3, [[Jim Cummings]] in Seasons 4-6) – An unscrupulous [[waste collector]] who represents laziness, ignorance, and the dangers of apathy and short-term thinking. However, as many of his schemes involve waste management, which is a legitimate environmental issue, he often uses that to gain apparent respectability. Sludge is the last villain to be revealed. He is also the only main villain to defect to the Planeteers where a recycling program of his makes a lot of money by the end of "No Small Problem." The money enables Sludge to propose plans to mass-produce an affordable, eco-friendly way to safely dispose of waste.
+** '''Prof. Ooze''' (voiced by [[Cam Clarke]]) – Sly Sludge's henchman. He is often underpaid and works for Sludge because he has no other option. Like Rigger, Ooze does most of the heavy work while his boss watches.
+** '''Prof. Tank Flusher III''' (voiced by [[Frank Welker]]) – Sly Sludge's [[Strongman (strength athlete)|strongman]] servant who makes his debut in "The New Adventures of Captain Planet" episode "A Mine is a Terrible Thing to Waste" Pt. 1 where he answered an ad for "A heinous henchman to serve a Machiavellian master" even though he doesn't know what it means.
+* '''Zarm''' (voiced by [[Sting (musician)|Sting]] in 1990–1992, [[David Warner (actor)|David Warner]] in 1993, [[Malcolm McDowell]] in 1994–1995) – A former spirit of the planet who left Gaia in search of other worlds and ended up laying other populous planets to ruin lacking Gaia to balance out his methods. He represents war and [[wikt:destroy|destruction]]. Even though Zarm does not have any henchmen of his own, he would often manipulate other people to do his bidding. He once united Hoggish Greedly, Looten Plunder, Sly Sludge, Duke Nukem, Verminous Skumm, and Dr. Blight under his leadership in the two-part episode "Summit to Save Earth." Other times he recruits and manipulates others, even the Planeteers, to work for him. Zarm is the fifth Eco-Villain to appear in the series, having his first appearance in the sixth episode. Outside of war and destruction, Zarm promoted hatred and [[totalitarianism]], which he believed were the most dangerous pollutants to mankind, as evidenced by his acting as [[kingmaker]] to a dictator named Morgar. Zarm admits he has been a guiding force for every despot of the 20th century, but admits one of them actually declined his help and challenges the Planeteers to guess who, saying "I think you'll be pleasantly surprised."
+
+====Captain Pollution====
+A polluting counterpart to Captain Planet named '''Captain Pollution''' (voiced by [[David Coburn (actor)|David Coburn]], like his good counterpart) appears in the two-part episode "Mission to Save Earth" when Dr. Blight steals the Planeteers' rings, creates polluting duplicates of them, and distributes the duplicates to most of the other Eco-villains. Each Eco-villain received a specific ring which had the opposite power of the Planeteers:
+
+* Duke Nukem has a Super Radiation Ring (counterpart of Fire).
+* Looten Plunder has a [[Deforestation]] Ring (counterpart of Earth).
+* Sly Sludge has a [[Smog]] Ring (counterpart of Wind).
+* Verminous Skumm has a [[Toxicity|Toxics]] Ring (counterpart of Water).
+* Dr. Blight has a [[Hatred|Hate]] Ring (counterpart of Heart).
+
+Each of the evil rings has malevolent faces on them, in contrast to the more element-themed Planeteer rings. Captain Pollution is weakened when he is in contact with pure elements such as clean water or sunlight, while he gains power from contact with pollutants, being able to absorb pollutant and emit radioactive rays (and is later shown to gain limitless power when in contact with pollutants after his resurrection). When he is summoned he says "By your polluting powers combined, I am Captain Pollution! Ha! Ha! Ha! Ha! Ha! Ha!", and when he disappears, he declares "The polluting power is yours!"
+
+In his first appearance, he is sent by the Eco-villains to destroy the Planeteers but gets chased off by Commander Clash, and after a fight with Captain Planet, he returns to the evil rings causing them to explode. In the two-part episode "A Mine is a Terrible Thing to Waste", Captain Pollution is brought back to life by toxins of the five evil rings that seep into the planet.
+
+Captain Pollution is Captain Planet's polar opposite in personality as well as power. In contrast to Planet's generous and altruistic nature, Pollution is lazy, and arrogant, seeing himself as a god and his creators as servants rather than partners. Captain Planet sums up the difference in their outlook during their first battle by taunting that the Planeteers have no boss – they are a team – and this is why Pollution will always lose.
+
+Captain Pollution resembles Captain Planet, but his skin is pale yellow and covered in brown lesions. His hair is red and styled in a [[Widow's peak]] and he has red eyes. His costume is the same color and style as Planet's, but the globe on his chest is torn in the middle. His voice is similar to Captain Planets, but it has a [[California English|California]] [[Valleyspeak|Valley twang]] to it. Captain Pollution is defeated twice by Captain Planet; first in "Mission to Save Earth" by being rammed through earth, lava, air and water, and then again in "A Mine is a Terrible Thing to Waste" by being tricked into going into an underground magma chamber.  Captain Pollution is destroyed by Captain Planet who throws Pollution in the water destroying him.
+
+===Other villains===
+* '''The Slaughters''' – A family of poachers who made their debut in "The New Adventures of Captain Planet." The Slaughters represent the endangerment of animals and the evils of poaching and are often in direct monetary competition with Looten Plunder. Mame and her family once collaborated with Looten Plunder and Argos Bleak in the episode "Horns A'Plenty" when the Planeteers ruined each one's rhinoceros poaching.
+** '''Mame Slaughter''' (voiced by [[Theresa Saldana]] in the first appearance, [[Mitzi McCall]] in the second appearance) – The leader of the Slaughters.
+** '''Stalker Slaughter''' (voiced by [[Charlie Adler]]) – One of Mame's sons and her second-in-command. He has a strong attachment to her as he needs her directions most of the time.
+
+==Episodes==
+{{main|List of Captain Planet episodes}}
+
+==Development==
+===Conception===
+According to Barbara Pyle, the inspiration for the five Planeteers came from real people that she met during the show's pre-production, in 1989. The character "Gi" was inspired by Malaysian environmental activist Chee Yoke Ling of [[Sahabat Alam Malaysia]], while Ma-Ti was inspired on [[Paulinho Paiakan]].<ref>{{Cite web|last=Alhadjri|first=Alyaa|date=2021-09-26|title=Captain Planet to Family Frontiers - Activist's long journey to save forests, families|url=https://www.malaysiakini.com/news/592836|access-date=2021-09-26|website=Malaysiakini}}</ref><ref>{{Cite web|title=Captain Planet to Family Frontiers|url=https://malaysia.news.yahoo.com/planeteer-family-frontiers-activists-long-020000665.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS51eS8&guce_referrer_sig=AQAAAH1y7vP7_OE6dWhxRukFDuMb8vbFGQveig_Brz3RnPJyIfwFmKwmCBXipobGYWcJ8bL9QoWofxZatfthURbS6St8XcR4H76ZRbtjIi0q-fI_Z5HN8eGf2Y8k1_xA-uImE0koaCugb-Dp2nEXybCiVoxgjD9o1AQJaH39fz6mGmx-|access-date=|website=Yahoo News Malaysia}}</ref> Wheeler was said by Pyle to be based on her own father. She reported on making him the most environmentally unaware based on the view she had of the attitudes displayed by the US at the [[Earth Summit|1992 Rio Earth Summit]]. Kwame was inspired by the survivors of the [[Rhodesian Bush War]].<ref>{{cite web|url=https://www.youtube.com/watch?v=D17JpONQNV0|title=Meet the Characters|author=Mother Nature Network}}</ref> In a September 2012 interview with Barbara Pyle and co-developer Nicholas Boxer, it was stated that the Hope Island was located near the [[Bahamas]].<ref>{{cite web|url=https://www.interviewly.com/i/barbara-pyle-sep-2012-reddit|title=We are Barbara Pyle and Nick Boxer, Co-creators and Exec. Producers of "Captain Planet and the Planeteers." AMA!|date=September 15, 2012|publisher=Interviewly|language=en|access-date=March 15, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150305004940/http://interviewly.com/i/barbara-pyle-sep-2012-reddit|archive-date=March 5, 2015}}</ref>
+
+===DIC history (1990–1992)===
+The original series was the second longest running US-cartoon of the 1990s, producing 113 episodes. It lasted for three seasons under the name ''Captain Planet and the Planeteers'' (produced by [[Turner Broadcasting System|TBS Productions]] and [[DiC]]).
+
+The show's intro theme was composed by Tom Worrall. The ending theme (maintained by both DIC and Hanna-Barbera's versions) is considered one of the most memorable parts of the series due to its catchy main chorus and rock track ("''Captain Planet, he's our hero, gonna take pollution down to zero''"). Its lyrics were written by show producer Nick Boxer<ref>[https://www.treehugger.com/family/raising-a-family/mnntv/captain-planet/captain-planet-the-theme-song Captain Planet: The theme song] Mother Nature Network</ref> and is performed by Murray McFadden and Timothy Mulhollan. During the end credits, James Coburn, in character as Looten Plunder, utters the line "You'll pay for this, Captain Planet.". This is then followed by a rap from the voice actors of the Planeteers. It is akin to [[New Kids on the Block]]'s "[[Step by Step (New Kids on the Block song)|Step By Step]]".
+
+===Hanna-Barbera history (1993–1996)===
+In 1993, the show saw a production company switch, changing the title to '''''The New Adventures of Captain Planet''''' (produced by [[Hanna-Barbera Cartoons]], which was acquired by Turner in 1991). During this time, it aired as part of TBS' '' Sunday Morning in Front Of The TV '' block, alongside fellow H-B toons ''[[SWAT Kats: The Radical Squadron]]'' and ''[[2 Stupid Dogs]]''. This series revealed more of the past of each of the characters and expanded on it dramatically. The tone of these episodes was more mature than the initial series. The animation style was altered.
+
+The DiC seasons' synth-rock soundtrack was replaced by a large number of orchestral pieces, and while the end credits theme was retained, the ending sequence now showcased footage from the Hanna-Barbera episodes. Full-time voice actors replaced most of the major celebrities that had voiced Gaia and the Eco-Villains during the DiC seasons. The opening narration was spoken by [[David Coburn (actor)|David Coburn]] (Captain Planet) rather than [[LeVar Burton]] (Kwame) and, in the final season, was replaced by a [[Rapping|rap]] by [[Fred Schneider]] of [[The B-52's]].
+
+===Legacy===
+The ''Captain Planet Foundation (CPF)'' was founded in 1991, when series producer Barbara Pyle negotiated a percentage of the show's merchandising revenue to empower young people. The concept allowed schools and organizations around the world to present their environmental projects to the Foundation and receive seed money to grow their ideas. In 2001, [[WarnerMedia|Time Warner]] decided to shut down the CPF due to a challenging merger with [[AOL]]. Laura Seydel and her husband Rutherford Seydel worked with Time Warner to orchestrate the transition of the [[Private foundation (United States)|corporate foundation]] to a public charity – the Captain Planet Foundation.<ref>{{Cite web|url=https://captainplanetfoundation.org/|title=Captain Planet Foundation {{!}} Supporting Environmental Education|website=captainplanetfoundation.org|language=en-US|access-date=April 18, 2017}}</ref> In 2007, CPF acquired the rights to exhibit previous episodes of Captain Planet and the Planeteers online and on-air, thus "allowing this valuable resource to reach out and educate the children of today!"<ref>{{cite web|url=https://captainplanetfoundation.org/about/our-story/|title=Our Story|date=August 3, 2016|publisher=Captain Planet Foundation|access-date=October 1, 2017}}</ref> {{as of|2017}}, the organization's board is chaired by Laura Turner Seydel, daughter of [[Ted Turner]]; the board includes [[Barbara Pyle]].<ref>{{cite web|url=https://captainplanetfoundation.org/board/|title=Board|publisher=Captain Planet Foundation|archive-url=https://web.archive.org/web/20170419103757/https://captainplanetfoundation.org/board/|archive-date=April 19, 2017|url-status=dead}}</ref>
+
+==Educational goals==
+Various episodes were constructed to touch on relevant themes to a modern audience:
+
+* "'''''Mind Pollution'''''"
+The episode titled "Mind Pollution" (1991) was notable<ref>{{cite web|url=http://www.ramblingbeachcat.com/2011/12/terrifying-moments-in-childrens.html|title=Terrifying moments in children's television|website=Rambling Beach Cat|access-date=May 11, 2016}}</ref> for dealing with the issue of drug abuse. This was explained by the fact that the characters thought of drug addiction as "pollution of the mind". The episode revolved around an epidemic of a designer drug known as "Bliss" created by [[Verminous Skumm]]. It included a scene of Linka's cousin Boris jumping through a window and dying from a drug overdose.
+
+* "'''''Population Bomb'''''"
+"Population Bomb" (1991) continued the trend of tackling controversial subject matter atypical for a children's cartoon, in this instance the problem with overpopulation.<ref>{{Cite web|last=II|first=Juan Michael Porter|date=September 24, 2020|title=30 years ago, Captain Planet and the Planeteers imagined a kinder world. What can we do better now?|url=https://www.syfy.com/syfywire/captain-planet-and-the-planeteers-30-year-anniversary-lessons|access-date=October 25, 2020|website=SYFY WIRE|language=en}}</ref> Using mice as substitutes for humans, the episode sets Wheeler on a Gulliver's Travels style adventure where he encounters a tribe of sentient mice who are destroyed by overpopulation and irresponsible leadership. It turns out that the ordeal is something that Wheeler dreamed up, though it serves as a warning for the audience about sustainability and over-consumption.
+
+* "'''''A Formula for Hate'''''"
+The episode titled "A Formula for Hate" (1992) was also unusual for the series in that it was the first episode in an American children's animated series to directly deal with the [[HIV/AIDS]] pandemic.<ref>{{cite news|url=https://www.latimes.com/archives/la-xpm-1992-11-21-ca-626-story.html|title='Capt. Planet' Tackles the AIDS Crisis|last=Mendoza|first=N.F.|date=November 21, 1992|access-date=August 24, 2010|work=The Los Angeles Times}}</ref> In the episode, Skumm and one of his rat henchmen brainwashes a local community into thinking the virus can be spread through casual contact and thus causing people to hate and fear a young man, infected with HIV, named Todd Andrews (voiced by [[Neil Patrick Harris]], with his mother voiced by [[Elizabeth Taylor]]). Captain Planet tells the truth about AIDS to the entire basketball game with help from Todd's coach. Then Captain Planet catches HIV, after Skumm and his rat henchman and hand him over to the police.
+
+==Franchise extension==
+Pyle and Boxer demanded that the series' merchandise be made sustainably; because of this, several of the companies producing ''Captain Planet''-themed merchandise had to completely overhaul their means of production to manufacture recycled and recyclable products.
+
+===Toys===
+As with many popular cartoons, ''Captain Planet'' had a line of action figures and vehicles. Released by [[Tiger Toys]] in 1990, the line ran for several years, long enough to tie into the ''New Adventures'' series. The toys were repackaged and sold by Grand Toys in Canada and [[Kenner]] throughout Europe. The toys were of average poseability, with the common five points – neck, shoulders, and hips.
+
+Finding a comprehensive list of what was released is difficult, since not all toys shown in the initial retailer catalog were even released. The collector's market is small, the toys being somewhat rare on [[eBay]]. The Captain Planet Foundation still sells a small number of them online, however. There may have also been further foreign variations of certain toys which may be even more difficult to catalog. Various toys from the ''New Adventures'' waves are not as likely to be well known.
+
+The five Planeteers, five Eco-Villains, Commander Clash, and several versions of Captain Planet, each with a different gimmick or paint scheme, were released, along with several vehicles. A toy ring with lights and sound and interchangeable lenses for the five elements was also released. Four small vehicles were also sold through a [[Burger King]] promotion.
+
+===Video games===
+{{main|Captain Planet and the Planeteers (video game)}}
+
+A video game based on the series was developed for the [[Nintendo Entertainment System]] by [[Mindscape Group|Mindscape]] called ''[[Captain Planet and the Planeteers (video game)|Captain Planet]]''. The game, which involved a good deal of shooting, received negative reviews from game critics and thus a [[Sega Mega Drive]] (Genesis) version of the game was cancelled. A separate side-scrolling game was developed by [[Novalogic]] for the [[Mega Drive]]/Genesis, but only saw release in Europe and Australia.<ref>{{cite web|url= https://www.mobygames.com/game/genesis/captain-planet-and-the-planeteers-|title=Captain Planet and the Planeteers on MobyGames|access-date=August 24, 2008}}</ref>
+
+[[David Perry (game developer)|David Perry]] and Nick Bruty developed a [[ZX Spectrum]] and [[Amstrad CPC]] game using the license, a 3-level shoot 'em up. A game was also released in 1990 for the [[Commodore Amiga]] and [[Atari ST]], written by [[Tony Crowther]]. This was a platform game and was briefly bundled with the [[Amiga 500]] "Cartoon Classics" pack released in 1991.<ref>{{cite web|url=https://www.youtube.com/watch?v=3a7sH_jz1bg | archive-url=https://ghostarchive.org/varchive/youtube/20211111/3a7sH_jz1bg| archive-date=2021-11-11 | url-status=live|title=Amiga Longplay Captain Planet and the Planeteers |publisher=YouTube |date=July 26, 2007 |access-date=August 17, 2016}}{{cbignore}}</ref> A [[Commodore 64]] game was in development but never released. [[Tiger Toys]], owners of the action figure license, also created an LCD hand-held game.
+
+Captain Planet appears as a playable character in the fighting game ''[[Cartoon Network: Punch Time Explosion]]'' for [[Nintendo 3DS]], [[Wii]], [[PS3]], and [[Xbox 360]].
+
+===Home media===
+[[Turner Home Entertainment]] originally released VHS tapes of the series, which contained a single episode on each. DIC's main home video distributor [[Buena Vista Home Video]] would also release single-episode VHS releases as well.
+
+A DVD with four episodes and bonus features exists but was only available as part of a "Planeteer Pack" purchased from the Captain Planet Foundation.<ref>{{cite web|url=https://captainplanetfoundation.org/planeteerpack.html|archive-url=https://web.archive.org/web/20080517120152/http://www.captainplanetfdn.org/planeteerpack.html|title=Captain Planet Foundation|archive-date=May 17, 2008|work=captainplanetfdn.org}}</ref>
+This promotional DVD contained the episodes "A River Ran Through It", "A Perfect World", "Gorillas Will Be Missed", and "The Big Clam Up". A short clip titled " Planeteers in Action", which is about the Captain Planet Foundation, is also included.<ref>{{cite web|url=http://www.costore.com/cpf/welcome.asp|archive-url=https://web.archive.org/web/20080217203926/http://www.costore.com/cpf/welcome.asp|archive-date=February 17, 2008|title=Welcome to Captain Planet Foundation's Co-Store|access-date=August 17, 2016}}</ref> The "Planeteer Pack" special is no longer available.
+
+[[Shout! Factory]] under license from Turner and [[Warner Bros. Home Entertainment|Warner Home Video]] released a DVD set of the complete first season in the U.S. on April 19, 2011. The DVD packaging is made of 100% recycled paper.<ref>{{cite web|url=https://www.shoutfactorystore.com/prod.aspx?pfid=5257373|title=Captain Planet And The Planeteers: Season One|website=Shoutfactorystore.com|access-date=August 17, 2016|url-status=dead|archive-url=https://web.archive.org/web/20120405173051/http://www.shoutfactorystore.com/prod.aspx?pfid=5257373|archive-date=April 5, 2012}}</ref>
+
+[[Madman Entertainment]] released the first season on July 6, 2016<ref>{{cite web|url=https://www.madman.com.au/catalogue/view/35945/captain-planet-season-1|title=Captain Planet Season 1 – DVD|website=Madman.com.au|access-date=August 17, 2016}}</ref> and the complete collection on October 25, 2017<ref>{{cite web|url=https://www.madman.com.au/catalogue/view/40739/captain-planet-complete-collection|title=Captain Planet Complete Collection – DVD|website=Madman.com.au|access-date=October 25, 2017}}</ref> in Australia.
+
+As of March 25, 2017, it is available on [[iTunes]] for purchase. The whole series was made available on [[Amazon Instant Video]].
+
+===Film===
+Multiple attempts have been made to create a film adaptation of the series. The first occurred in 1996 when Boxer and Pyle wrote a [[film adaptation]] of ''Captain Planet'' originally titled ''Planet''.<ref name="MReaves">{{cite web|url=http://www.animationartist.com/2000/Interviews/Screenwriters/Michael_Reaves/MReaves.html|title=Michael Reeves interview, in which he recalls the title as simply "Planet"|publisher=AnimationArtist.com|access-date=February 8, 2007}}</ref> Five years later, [[Michael Reaves]] revised the concept as ''Dark Planet'' or ''Planet''. The storyline was darker than the series, and set in a post-apocalyptic time period. However, the script was lost when Turner and Warner Bros. merged in 1996.<ref name="MReaves2">{{cite web|url=http://www.michaelreaves.com/movies.htm|archive-url=https://web.archive.org/web/20090219225814/http://michaelreaves.com/movies.htm|archive-date=February 19, 2009|title=Michael Reaves's website, listing the script as "Dark Planet"|access-date=April 20, 2008}}</ref> The film reached the design stage before it was abandoned.
+
+Other attempts at a film version were made in 2007,<ref name="TTurner">{{cite web|url=http://www.hollywoodtoday.net/?p=3116|title=Ted is currently in talks to create a possible movie version of the cartoon – wonder who will play Captain Planet?|website=Hoolywoodtoday.com|access-date=August 17, 2016|url-status=dead|archive-url=https://web.archive.org/web/20071215232855/http://www.hollywoodtoday.net/?p=3116|archive-date=December 15, 2007}}</ref> 2011,<ref>{{cite news|url=https://latimesblogs.latimes.com/movies/2011/07/cartoon-network-captain-planet-movie.html|title=Cartoon Network's 'Captain Planet' will be drawn into film|date=July 19, 2011|last=Zeitchik|first=Steven|work=[[Los Angeles Times]]|access-date=July 19, 2011}}</ref><ref>{{cite news|last=Rosenfeld|first=Everett|title=With Hollywood's Powers Combined, a 'Captain Planet' Movie Will Hit Theaters|url=https://newsfeed.time.com/2011/07/21/hes-our-hero-captain-planet-movie-is-in-the-works/|access-date=July 22, 2011|newspaper=Time News Feed|date=July 22, 2011}}</ref> and 2013,<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/captain-planet-planeteers-movie-works-576490|title='Captain Planet and the Planeteers' Movie in the Works From Sony (Exclusive)|work=The Hollywood Reporter|date=June 27, 2013}}</ref> but none of these versions came to pass. In October 2016 [[Paramount Pictures]] and [[Leonardo DiCaprio]]'s [[Appian Way Productions|Appian Way]] were attempting to develop a new movie and is in negotiations with Jono Matt and [[Glen Powell]] to write the script.<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/captain-planet-movie-leonardo-dicaprio-938852|title=Leonardo DiCaprio, Glen Powell Teaming for 'Captain Planet' Movie (Exclusive)|work=The Hollywood Reporter|date=October 17, 2016}}</ref> The status of the project is unclear since there were no further news of film adaptation.
+
+===Comic books===
+[[Marvel Comics]] published a comic series titled ''Captain Planet and the Planeteers''. The series ran twelve issues, cover dated October 1991 through October 1992.
+
+===''OK K.O.!'' crossover===
+Captain Planet appeared in a special crossover episode of the [[Cartoon Network]] series ''[[OK K.O.! Let's Be Heroes]]'', with [[David Coburn (actor)|David Coburn]] reprising his role as Captain Planet and [[LeVar Burton]] reprising his role as Kwame. The heroes battled Dr. Blight (accompanied by a silent MAL). The episode "The Power Is Yours" aired on October 9, 2017.<ref>{{Cite web|url=https://mashable.com/2017/09/13/captain-planet-ok-ko-cameo-cartoon-network/|title='Captain Planet' is coming back to TV for a super-powered cameo|last=Prudom|first=Laura|website=Mashable|date=September 13, 2017|language=en|access-date=July 4, 2019}}</ref>
+
+==Release Dates== 
+* September 10, 1990 (U.S.) 
+* September 15, 1990 (U.S.) 
+* June 16, 1991 (U.K.)
+
+==VHS UK history== 
+*''[[First Independent Films|First Independent Video]]'' (September 2, 1991)
+
+==Broadcast UK history== 
+*''[[TV-am]]'' (1991–1992) 
+*''[[GMTV]]'' (1993)
+*''[[Cartoon Network (British and Irish TV channel)|Cartoon Network]]'' (1994–1999)
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [https://www.planeteermovement.com/ Planeteer Movement]
+* [https://captainplanetfoundation.org/ Captain Planet Foundation] 
+* [http://www.toonopedia.com/caplanet.htm Captain Planet] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/66nzi51XV?url=http://www.toonopedia.com/caplanet.htm Archived] from the original on April 9, 2012.
+* {{IMDb title|0098763|Captain Planet and the Planeteers}}
+* {{bcdb |Other_Studios/D/DiC_Entertainment/Captain_Planet_And_The_Planeteers/|Captain Planet and the Planeteers}}
+* {{bcdb |Hanna-Barbera_Studios/K-O/The_New_Adventures_of_Captain_Planet|The New Adventures of Captain Planet}}
+
+{{Clear}}
+{{Kids' WB}}
+{{TBSNetwork Shows}}
+{{Children's programming on TBS/TNT}}
+
+{{portalbar|1990s|United States|Environment|Animation|Television}}
+
+{{DEFAULTSORT:Captain Planet And The Planeteers}}
+[[Category:Captain Planet| ]]
+[[Category:1990s American animated television series]]
+[[Category:1990 American television series debuts]]
+[[Category:1996 American television series endings]]
+[[Category:American children's animated action television series]]
+[[Category:American children's animated adventure television series]]
+[[Category:American children's animated education television series]]
+[[Category:American children's animated science fantasy television series]]
+[[Category:American children's animated superhero television series]]
+[[Category:Animated television series about teenagers]]
+[[Category:Eco-terrorism in fiction]]
+[[Category:Environmental television]]
+[[Category:English-language television shows]]
+[[Category:Fictional conservationists and environmentalists]]
+[[Category:Fictional sextets]]
+[[Category:Television series by DIC Entertainment]]
+[[Category:Television series by Hanna-Barbera]]
+[[Category:Hanna-Barbera superheroes]]
+[[Category:Marvel Comics superheroes]]
+[[Category:TBS (American TV channel) original programming]]
+[[Category:Comics based on television series]]
+[[Category:Classical mythology in popular culture]]
+[[Category:Overpopulation fiction]]
+[[Category:Television series by Studio T]]
+[[Category:Television series by Warner Bros. Television Studios]]
+[[Category:Television shows adapted into comics]]
+[[Category:Television shows adapted into video games]]
+[[Category:Television shows about drugs]]

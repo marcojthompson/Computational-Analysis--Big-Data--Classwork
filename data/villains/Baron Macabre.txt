@@ -1,0 +1,46 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=Baron Macabre.png
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Baron Macabre
+|real_name=
+|species=human mutate
+|publisher=[[Marvel Comics]]
+|debut=''[[Jungle Action]] #9'' (May 1974)
+|creators=[[Don McGregor]] and [[Gil Kane]]
+|alliance_color=background:#c0c0ff
+|partners=[[Erik Killmonger]]
+|aliases=
+|powers=master of theatrics
+|}} 
+
+'''Baron Macabre''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Baron Macabre first appeared in ''[[Jungle Action]]'' #9 (May 1974), and was created by [[Don McGregor]] and [[Gil Kane]].
+
+The character subsequently appears in ''Jungle Action'' #10-11 (July, September 1974), and #17 (September 1975).
+
+==Fictional character biography==
+Baron Macabre is a [[Wakanda (Marvel)|Wakandan]] subversive capable of reanimating the dead as zuvembies.  He was an ally of [[Erik Killmonger]] and came into conflict with the [[Black Panther (comics)|Black Panther]].<ref>''Jungle Action'' #9-11 (May, July, September 1974)</ref>
+
+==Powers and abilities==
+Baron Macabre was empowered by the Resurrection Altar. He can fire electric blasts.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://worldofblackheroes.com/2011/04/06/baron-macabre/ World of Black Heroes: Baron Macabre Biography]
+*{{Marvunapp|http://www.marvunapp.com/Appendix/baronmac.htm|Baron Macabre}}
+
+{{Black Panther}}
+{{Marvel-villain-stub}}
+
+[[Category:Characters created by Gil Kane]]
+[[Category:Comics characters introduced in 1974]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics male supervillains]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Wakandans]]

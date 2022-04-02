@@ -1,0 +1,189 @@
+{{italic title}}
+{{Cleanup|reason=grammar problems|date=November 2021}}
+{{Not to be confused with|text=Union (comics) (1994), published by [[Image Comics]]}}{{Infobox comics organization|team_name=The Union (Marvel Team)|creators=<b>(The Union){{efn| see publication history section}}</b><br>
+<b>(The Marvels)</b>{{efn|see the other series (team featured) section}}
+|caption=|publisher=[[Marvel Comics]]|debut=The Union #1|members=* Kelpie
+* The Choir (Ruth)
+* Snakes
+* Bulldog|debutyr=2020|owners=* Britannia (Tanya){{efn|Leader in The Union #1)}}
+* [[Union Jack (Joseph Chapman)|Union Jack]] (Joe Chapman) {{efn|Leader in The Union #2 - #5 and current holder of the position.}}|debuthead=[[King in Black]]{{efn| King in Black is the first crossover event that The Union features in and includes the first of The Union series of comics}}|base=[[United Kingdom]]|name=|type=[[Superheroes]]|team=y|employees=|sortkey=The Union (comic)|subcat=Marvel Comics|debutmo=December|organisation=y|debut1=The Marvels #5|debutmo1=September|debutyr1=2021|debuthead1=The Marvels {{efn| The Marvels is the first comic that The Union (team) feature in that is outside of The Union (comic) series (cameo appearance).}}}}
+
+'''The Union''' is a fictional [[United Kingdom|UK]] [[superhero]] team that appear in [[Comic book|comic books]] published by Marvel.<ref>{{cite web|accessdate=2020-06-08|title='The Union' Introduces New Superteam to Marvel's Comic Book Universe This May|url=https://www.hollywoodreporter.com/heat-vision/union-introduces-new-superteam-marvels-comic-book-universe-may-1280051|website=The Hollywood Reporter|date=19 February 2020}}</ref>
+
+The Union has both old and new superheroes within it, including British hero [[Union Jack (Joseph Chapman)|Union Jack]] and a major new character, Britannia, who leads the new team in its fight against the enemies they encounter.
+
+The Union appeared in the crossover event called ''[[King in Black]]'' alongside other well known comic book heroes and teams, and faced off against known foes and new foes not yet fought by any Marvel superhero or team.<ref>{{Cite web|last=Lealos|first=Shawn. S|date=December 7, 2020|title=King in Black: Knull's Attack Kills One of Marvel's Newest Heroes|url=https://www.cbr.com/king-in-black-knull-kill-britannia|url-status=live|website=[[Comic Book Resources]]}}</ref>
+
+==Comic publication history==
+The Union (comic) was first released in December 2020 with the first issue of the comic The Union #1. The Union was originally due to be release as part of the [[Empyre]] event, but was moved and rewritten to fit into [[King in Black]] event due to issues caused by the ongoing pandemic. <ref>{{Cite web|last=Lovett|first=Jamie|date=October 30, 2020|title=Marvel's The Union: Paul Grist Talks Introducing New Superhero Team During King in Black|url=https://comicbook.com/comics/news/marvel-the-union-paul-grist-interview-king-in-black-andrea-di-vi/|url-status=live|website=Comic Book}}</ref>{{efn|This was part of a 5 issue mini series}}
+
+==Team publication history==
+The Union (team) first appeared in The Union #1 as part of the King in Black crossover event.<ref>{{Cite web|last=MacNamee|first=Olly|date=December 2, 2020|title=Review: 'The Union' #1 Introduces Readers To A United Team For A Disunited Britain|url=https://www.comicon.com/2020/12/02/review-the-union-1-introduces-readers-to-a-united-team-for-a-disunited-britain/|url-status=live|website=[[Comicon]]}}</ref> 
+
+On September 29, 2021, The Union (team) featured in The Marvels #5 alongside other marvel superheroes .{{efn| This is a cameo role and not a full feature <ref>{{Cite web|last=Dodge|first=John|date=September 30, 2021|title=The Marvels Puts a Controversial King in Black Team Back in Action|url=https://www.cbr.com/marvels-the-union-return/amp/|url-status=live|website=[[Comic Book Resources]]}}</ref> }}
+
+==Other series (team featured)==
+
+{| class="wikitable"
+! colspan="4" | The Marvels
+|-
+! Issue No
+! Release
+! Created by
+|-
+|The Marvels #5 
+|September 29, 2021
+|Kurt Busiek (writing)<br>
+Yildiray Cinar (inker)<br>
+Richard Isanove (colourist)<br>
+Simon Bowland (letterer)<br>
+Yıldıray Çınar(penciler)
+|}
+
+== Britannia Project (organisation) ==
+{{Infobox comics organization|name=Britannia Project|owners=Steven Darwin|team=The Union|employees=The Union|type=[[List of Marvel Comics teams and organizations| Superhero Organisation]]|organisation=y|creators=[[Paul Grist (comics)|Paul Grist]]|publisher=[[Marvel Comics]]|debut1=|altcat=|sortkey=The Union|base=[[United Kingdom]]|debut=The Union #1|subcat=Marvel Comics}}
+
+== Main & Supporting characters ==
+{{see also|Lists of Marvel Comics characters}}
+=== The Union ===
+The Union was formed by the British Government as a publicity attempt to restore faith in Britain. The superhero team consists of five members; four of them representing the individual nations of the United Kingdom, and the fifth representing the UK as a whole.<ref name="cbr">{{Cite web|last=Adams|first=Tim|date=February 14, 2020|title=Marvel Introduces The Union, The UK's Brand-New Superhero Team|url=https://www.cbr.com/marvel-comics-the-union-united-kingdom-superhero-team/|url-status=live|archive-url=|archive-date=|access-date=|website=Comic Book Resources}}</ref>
+
+'''Britannia''' 
+
+Britannia is the leader of the Union and represents the [[United Kingdom]] as a whole. She is a powerful warrior, wearing a dark and light contrasting blue outfit with a red cloak. She is seen wielding a sword and shield, as well as a trident. After being killed by a symbiote dragon, her spirit resides within Union Jack, protecting him from harm and enhancing his strength.
+
+'''Kelpie''' 
+
+Representative of [[Scotland]] in the team. She is referred to as "an ancient water demon found living in a Scottish lake". She has the power to control water, as well as being able to transform her hands into sharp claws.
+
+'''The Choir'''
+
+Representative of [[Wales]] in the team.  She has black hair with a bright green strip across the top, and she is dressed in a glowing green and black contrasting outfit with a blue cloak and she wields a dagger. She is described as having "a voice that can shatter stone". During the attack on Earth by [[Knull (character)|Knull]], the Choir is infected by a symbiote. She is freed of Knull's control through the efforts of the Union, but later defects to work alongside Doc Croc and his team. 
+
+'''Snakes'''
+
+Representative of [[Northern Ireland]] in the team. Snakes is a sentient collection of snakes formed together in the shape of a human. Described as having "the strength of ten men".
+
+'''[[Union Jack (Joseph Chapman)|Union Jack]]'''
+
+Representative of [[England]] in the team. He is the only pre-existing character in the Union, and the latest man to bear the name of a character who first appeared in ''[[Invaders (comics)|The Invaders]]''.
+
+'''Bulldog'''
+
+Joining the team as a replacement for Britannia after her death, Bulldog is a short man who displays super-strength and enhanced agility. He wears a red and grey jumpsuit and black boots. <ref>{{Cite web|title=Union Jack|url=http://www.toonopedia.com/ujack.htm|last=Markstein’s|first=Don|date=2 April 2020|website=Toonpedia|url-status=live|archive-url=|archive-date=|access-date=}}</ref>
+
+ 
+Main article: The Union (Marvel Team)
+
+===Supporting Characters===
+====Allies====
+
+* Selwlyn James (Government Minister with special responsibility for super heroes), the head of the Britannia Project, and the Union's government liaison. Later revealed to be ex-supervillain The Sponge Steve Darwin (Leader of the Britannia Project)
+
+====Enemies====
+* [[Knull]]
+* Doc Croc (Croker Dyle)
+* The Sponge (Selwlyn James) 
+* Skreem (The Choir) (supervillain / superhero) (introduced in The Union #1) (first full appearance in The Union #4)
+* Volcana (Marvel Comics)| Volcana]] (introduced in The Union #4)
+* Lady Shimmering Lights(introduced in The Union #4)
+* Craig the cybernetically enhanced corgi]] (introduced in The Union #4)
+Races and species (featured)
+* [[Humans]]
+* [[Symbiote (comics)| Symbiotes]]/Klyntar
+* Dogs (Robot)
+
+== Reactions ==
+The Union received mixed reviews from people  across the [[United Kingdom]], with some of the [[Scottish people|Scottish]] and [[Welsh people|Welsh]] people disagreeing with the name of the group and the way that their characters Kelpie (Scotland) & The Choir (Wales) portray the two countries. <ref>{{Cite web|last=Jones|first=Branwen|date=February 24, 2020|title=Marvel unveils its Welsh superhero - and some fans think it's 'humiliating|url=https://www.dailypost.co.uk/whats-on/whats-on-news/marvel-unveils-first-welsh-superhero-17783801|url-status=live|website=[[Daily Post (North Wales)|Daily Post]]}}</ref><ref>{{Cite web|last=Hay|first=Katherine|date=February 20, 2020|title=This is a big mistake': Scots react as Marvel launch new UK superhero team called The Union|url=https://www.edinburghnews.scotsman.com/heritage-and-retro/retro/big-mistake-scots-react-marvel-launch-new-uk-superhero-team-called-union-1885960|url-status=live|website=[[Edinburgh News]]}}</ref>
+
+==Roster==
+The Union (marvel team) roster has gone through a number of changes, this includes members leaving and joining the team and being present in a spirit form. <ref> {{Cite web|last=Isaak|first=Joshua|date=May 16, 2021|title=Marvel Reveals a Horrifying to Alternative To Infinity Stones|url=https://screenrant.com/union-infinity-stones-horrifying-alternative-marvel-comics/|url-status=live|website=[[Screen Rant]]|quote=}}</ref> <ref>{{Cite web|last=Corley|first=Shaun|date=May 14, 2021|title=Marvel's British Wolverine Just Endured a Humiliating Fastball Special|url=https://screenrant.com/bulldog-union-british-wolverine-fastball-special-snakes-kick/|url-status=live|website=[[Screen Rant]]}}</ref>
+
+(Current member are indicated in bold)
+===Current Roster===
+{| class="wikitable sortable"
+|-
+! colspan="6" |The Union & The Marvels (comics)  
+|-
+!Team Member
+!1
+!2
+!3
+!4
+!5
+|-
+|Britannia
+|{{yes|}}
+|{{no|}}
+|{{no|}}
+|{{no|}}
+|{{maybe|{{efn|but in The Union #5 he is eventually stopped through the combined efforts of Union Jack and the spirit of Britannia.}}}}
+|-
+|<b>Union Jack</b>
+|{{yes|}}
+|{{yes|}}
+|{{yes|}}
+|{{yes|}}
+|{{yes|}}
+|-
+|<b>Kelpie</b>
+|{{yes|}}
+|{{yes|}}
+|{{yes|}}
+|{{yes|}}
+|{{yes|}}
+|-
+|<b>The Choir</b>
+|{{yes|}}
+|{{yes|}}
+|{{yes|}}
+|{{no|{{efn|see supporting characters section}}}}
+|{{yes|}}
+|-
+|<b>Snakes</b>
+|{{yes|}}
+|{{yes|}}
+|{{yes|}}
+|{{yes|}}
+|{{yes|}}
+|-
+|<b>Bulldog</b>
+|{{no|}}
+|{{no|}}
+|{{yes|}}
+|{{yes|}}
+|{{yes|}}
+|-
+|No of Members
+|5
+|4
+|5
+|4
+|6
+|}
+
+== See also ==
+<b>Marvel Lists</b>
+*[[List of Marvel Comics teams and organizations|List of Marvel superhero teams]]
+* [[Lists of Marvel Comics characters|List of Marvel Comics characters]]
+<b>The Union (Members) Comics</b>
+* [[Union Jack (Marvel Comics)]]
+
+==External links==
+* [http://www.marvel.com Marvel]
+*[https://www.marvel.com/comics/series/29327/the_union_2020_-_2021 The Union (Marvel Comic Series)]
+*[https://www.marvel.com/comics/collection/82643/the_union_the_britannia_project_trade_paperback The Union (Marvel Comic Series)]                    ([[Trade paperback (comics)|trade paperback]])
+*[https://www.marvel.com/comics/issue/80582/the_marvels_2021_5 The Marvels #5 (Marvel Comic)]
+
+{{DEFAULTSORT:Union (Marvel Superhero Team), The}}
+
+[[Category:Marvel Comics superhero teams]]
+[[Category:Marvel Comics superheroes]]
+[[Category:United Kingdom-themed superheroes]]
+[[Category:British superheroes]]
+
+==References==
+{{Reflist}}
+
+== Footnotes ==
+{{Notelist}}

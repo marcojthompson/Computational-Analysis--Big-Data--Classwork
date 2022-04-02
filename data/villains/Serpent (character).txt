@@ -1,0 +1,72 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Serpent
+| image          = SerpentBreakShieldFI5ByImmonen.png
+| imagesize      = <!-- default 250 -->
+| caption        = The Serpent breaks Captain America's shield in ''[[Fear Itself (comics)|Fear Itself]]'' #5 (October 2011).<br>Art by [[Stuart Immonen]] and [[Wade Von Grawbadger]].
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Fear Itself (comics)|Fear Itself]]'' #1 (April 2011)
+| creators       = [[Stuart Immonen]]<br>[[Matt Fraction]]
+| full_name      = Cul Borson
+| species        = Asgardian
+| homeworld      = [[Asgard (comics)|Asgard]]
+| alliances      = Worthy
+| partners       = 
+| supports       = 
+| aliases        = God of Fear, Serpent
+| powers         = Superhuman strength, speed, agility, stamina and durability<br>Healing factor<br>Shapeshifting<br>Magic manipulation<br>Longevity<br>Ability to eat fear
+| hero           = 
+| villain        = y
+| sortkey        = 
+| addcharcat#    = 
+|}}
+
+'''Serpent''' ('''Cul Borson''') is a fictional supervillain appearing in [[American comic book]]s published by [[Marvel Comics]]. Usually depicted as a foe of [[Odin (Marvel Comics)|Odin]] and [[Thor (Marvel Comics)|Thor]], the Serpent has also come into conflict with the Avengers. He is the brother of Odin, therefore the uncle of Thor, Tyr, Balder, Loki, Laurussa, and [[Angela (comics)|Angela]]. He is known as the Norse '''God of Fear'''.
+
+==Publication history==
+Serpent first appeared in ''[[Fear Itself (comics)|Fear Itself]]'' #1 (June 2011), and was created by [[Stuart Immonen]] and [[Matt Fraction]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=319}}</ref>
+
+==Fictional character biography==
+Cul Borson first appears in the 2011 ''[[Fear Itself (comics)|Fear Itself]]'' storyline, when he is freed from his underwater prison by [[Red Skull]]'s daughter [[Sin (Marvel Comics)|Sin]] who possesses the Hammer of Skadi. Upon emerging as an old man, Serpent claims that he is the true All-Father of [[Asgard (comics)|Asgard]], and not [[Odin (comics)|Odin]], father to [[Thor (Marvel Comics)|Thor]]. The Serpent prepares Skadi's army and calls the Hammers of the Worthy, which he sends to Earth,<ref>{{Cite comic|writer=Fraction, Matt|penciller=Immonen, Stuart|inker=Von Grawbadger, Wade|story=The Serpent|title=Fear Itself|volume=|issue=#1|date=June 2011|publisher=Marvel Comics}}</ref> transforming a number of superhuman beings into his henchmen, the Worthy, who will help him spread fear and chaos across the globe: [[Juggernaut (comics)|Juggernaut]] becomes Kuurth: Breaker of Stone, [[Hulk]] becomes Nul: Breaker of Worlds, [[Attuma]] becomes Nerkodd: Breaker of Oceans, [[Titania (Marvel Comics)|Titania]] becomes Skirn: Breaker of Men, [[Grey Gargoyle]] becomes Mokk: Breaker of Faith, [[Absorbing Man]] becomes Greithoth: Breaker of Wills, and [[Thing (comics)|Thing]] becomes Angrir: Breaker of Souls. As the Worthy attack a number of high-profile cities on Earth,<ref>{{Cite comic|writer=Fraction, Matt|penciller=Immonen, Stuart|inker=Von Grawbadger, Wade|story=The Worthy|title=Fear Itself|volume=|issue=#2|date=July 2011|publisher=Marvel Comics}}</ref><ref>{{Cite comic|writer=Fraction, Matt|penciller=Immonen, Stuart|inker=Von Grawbadger, Wade|story=The Hammer that Fell on Yancy Street|title=Fear Itself|volume=|issue=#3|date=August 2011|publisher=Marvel Comics}}</ref> Serpent is rejuvenated by the fear experienced by the global citizenry, restoring his youth. When Thor appears at his stronghold to confront him, Serpent confirms to Thor that he is the Serpent destined by prophecy to kill Thor, and not the [[Midgard Serpent (Marvel Comics)|Midgard Serpent]]. Serpent reveals that he is Odin's brother and Thor's uncle. He dispatches Thor, sending him to Manhattan, which lies in ruins following an attack by Skadi and two of the Worthy, Nul and Angrir, who then attack Thor.<ref name=FearItself#4>{{Cite comic|writer=Fraction, Matt|penciller=Immonen, Stuart|inker=von Grawbadger, Wade|story=Worlds on Fire|title=Fear Itself|volume=|issue=#4|date=September 2011|publisher=Marvel Comics}}</ref>
+
+Serpent himself later confronts the [[Avengers (comics)|Avengers]], and breaks [[Captain America's shield]] with his bare hands before teleporting away. Thor manages to dispatch Nul, who is transformed back into Thing, and as Nul,<ref name=FearItself#5>{{Cite comic|writer=Matt Fraction|penciller=Stuart Immonen|inker=Wade von Grawbadger|story=Brawl|title=Fear Itself|volume=|issue=#5|date=October 2011|publisher=Marvel Comics|page=|panel=}}</ref> but is seriously wounded, and transported to Asgard to recuperate. In an attempt to destroy Odin and his followers, Serpent and his followers appear in [[Broxton, Oklahoma]] in order to use Heimdall's Observatory to transport themselves to Asgard. They are confronted by the heroes of Earth, who stage a last stand to prevent them from doing this.<ref>{{Cite comic|writer=Matt Fraction|penciller=Stuart Immonen|inker=Wade von Grawbadger|story=Blood-Tied and Doomed|title=Fear Itself|volume=|issue=#6|date=November 2011|publisher=Marvel Comics|page=|panel=}}</ref>
+
+When a healed Thor appears, Serpent transforms into a giant serpent, and battles his nephew while the Avengers fight the Worthy with weapons that [[Iron Man]] made in Asgard's workshops. Thor slays his uncle with Odinsword (revealed to be Ragnarok) and dies in the arms of Odin, thus fulfilling the prophecy. Following Thor's funeral, Odin takes Serpent's corpse to Asgard, casts out the other [[Asgardians (Marvel Universe)|Asgardians]], and locks himself alone with the body until the end of time, blaming himself for not preventing Thor's death.<ref name="FearItself7">{{Cite comic|writer=Fraction, Matt|penciller=Immonen, Stuart|inker=Von Grawbadger, Wade|story=Thor's Day|title=Fear Itself|volume=1|issue=7|date=December 2011|publisher=Marvel Comics}}</ref>
+
+During the 2014 ''[[Original Sin (comics)|Original Sin]]'' storyline, Serpent is revived by Odin as he is contacted by [[Loki (Marvel Comics)|Loki]].<ref>''Original Sin'' #5.4. Marvel Comics (New York).</ref>
+
+Serpent later repents his sins, and is pardoned as a reformed god by Odin, who makes him Royal [[Inquisitor]] and [[Justice ministry|Minister of Justice]].<ref>''Thor'' vol. 4 #5. Marvel Comics.</ref> Serpent's first task as the Royal Inquisitor is to retrieve Mjolnir from the [[Jane Foster (comics)|female Thor]]. While using the [[Destroyer (Thor)|Destroyer]] armor, Serpent confronted her as she was about to take action against [[Malekith the Accursed]] and [[Minotaur (comics)|Minotaur]].<ref>''Thor'' vol. 4 #6. Marvel Comics.</ref> Serpent managed to briefly reclaim Mjolnir until Thor managed to call it back to her. Thor continued her fight against Serpent until she received aid from Thor Odinson, Freyja, and an army of women that Thor Odinson suspected of being the female Thor.<ref>''Thor'' vol. 4 #7. Marvel Comics (New York).</ref> After a fierce battle, Freyja convinced Odin to call off Serpent's mission by mocking him.<ref>''Thor'' vol. 4 #8. Marvel Comics (New York).</ref>
+
+When Asgardia was destroyed, Serpent is sent to Svartalfheim by Odin in order to find out how Malekith the Accursed's forces are able to travel undetected.<ref>''Thor'' vol. 5 #10. Marvel Comics (New York).</ref>
+
+During the ''[[War of the Realms]]'' storyline, a flashback shows Cul declining Malekith the Accursed's offer to join the Dark Council. In the present, Cul discovers that Malekith and his forces are using the Black Bifrost Bridge. Cul relays this to Odin, and resolves to remain in Svartalfheim to discover how it works. After spending months studying it, Cul steals some explosives from the Swamp Mines and throws them towards the Bridge. He then discovers that Malekith has enslaved [[Elves (Marvel Comics)|Dark Elf]] children to mine the explosives. Freeing them, and as a final act of redemption, he urges them to use the explosives to create another escape route while he fends off their guards until he is mortally wounded. In the aftermath of the Swamp Mines' destruction, the freed Dark Elf children began to fight the other Dark Elf soldiers in his honor.<ref>[[Aaron, Jason]] (w), [[Del Mundo, Mike]] (a). "The Ballad of Cul Borson, God of Fear", ''Thor'' vol. 5 #13 (2019). Marvel Comics.</ref>
+
+==Powers and abilities==
+Cul possesses all the conventional attributes of an Asgardian God. However, as the son of Bor, many of these attributes are significantly superior than those possessed by the majority of his race. He possesses sufficient superhuman strength to shatter Captain America's shield with his bare hands.<ref name=FearItself#5/> He possesses the ability to manipulate magic as he was able to tele-transport, revive the dead and transform into a giant serpent.<ref name="FearItself7"/> As the God of Fear, he could consume the fear of other people to empower himself, making him stronger and younger in the process.<ref name=FearItself#4/>
+
+==In other media==
+=== Television ===
+Serpent appears in the ''[[Guardians of the Galaxy (TV series)|Guardians of the Galaxy]]'' animated series, voiced by [[Robin Atkin Downes]].{{citation needed|date=October 2020}} A seven-episode story arc beginning with the episode "Paranoid" and ending with the series finale "Just One Victory" depicts his escape from imprisonment in the Darkhawk realm and his attack on [[Asgard (comics)|Asgard]], which brings him into conflict with a group consisting of the titular [[Guardians of the Galaxy (2008 team)|Guardians]], [[Thanos]], and the [[Avengers (comics)|Avengers]], among others. In a flashback depicted in "Holding Out for a Hero", Serpent planted the World Tree as a sapling, which he later corrupts in the present to cement his control over Asgard. In the end however, [[Groot]] uses the Dragonfang sword in the corrupted World Tree to purify it, which causes Serpent to age to dust.<ref>{{cite episode|title=Paranoid|series=Guardians of the Galaxy|network=Disney XD|season=3|number=20|airdate=May 26, 2019}}</ref><ref>{{cite episode|title=Darkhawks on the Edge of Town|series=Guardians of the Galaxy|network=Disney XD|season=3|number=21|airdate=May 26, 2019}}</ref><ref>{{cite episode|title=Holding Out for a Hero|series=Guardians of the Galaxy|network=Disney XD|season=3|number=22|airdate=June 2, 2019}}</ref><ref>{{cite episode|title=With a Little Help From My Friends|series=Guardians of the Galaxy|network=Disney XD|season=3|number=23|airdate=June 2, 2019}}</ref><ref>{{cite episode|title=Breaking Stuff is Hard to Do|series=Guardians of the Galaxy|network=Disney XD|season=3|number=24|airdate=June 9, 2019}}</ref><ref>{{cite episode|title=Killer Queen|series=Guardians of the Galaxy|network=Disney XD|season=3|number=25|airdate=June 9, 2019}}</ref><ref>{{cite episode|title=Just One Victory|series=Guardians of the Galaxy|network=Disney XD|season=3|number=26|airdate=June 9, 2019}}</ref>
+
+=== Video games ===
+Serpent appears in the 2012 [[Facebook]] game ''[[Marvel: Avengers Alliance]]''.{{citation needed|date=October 2020}}
+
+==See also==
+* [[Nidhogg]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://marvel.fandom.com/wiki/Cul_Borson_%28Earth-616%29 Serpent] at Marvel Wiki
+* [http://comicvine.gamespot.com/the-serpent/4005-77306/ Serpent] at Comic Vine
+
+{{Thor}}
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics Asgardians]]
+[[Category:Marvel Comics characters who use magic]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Comics characters introduced in 2011]]
+[[Category:Fictional gods]]

@@ -1,0 +1,93 @@
+{{Short description|Marvel Comics character}}
+{{For|the treatment for venom|Antivenom}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+|character_name  = Anti-Venom
+|image           = Anti-Venom.jpg
+|caption         = Eddie Brock as Anti-Venom. Artwork for the cover of ''Amazing Spider-Man Presents: Anti-Venom - New Ways to Live'' #1 (September 2009 Marvel Comics).<br>Art by [[Mirco Pierfederici]].
+|publisher       = [[Marvel Comics]]
+|debut           = ''[[The Amazing Spider-Man]]'' #569 (October 2008)
+|creators        = [[Dan Slott]]<br />[[John Romita Jr.]]
+|real_name       = Various hosts
+|species         = [[Symbiote (comics)|Symbiote]]–Human [[white blood cells]]
+|powers          = *All powers of the symbiote's first human host, [[Spider-Man]]
+*Limited shapeshifting and [[camouflage]]
+*Symbiote's autonomous defense capabilities
+*Undetectable by Spider-Man's "Spider-sense"
+*Immunity to fire, heat, and sound-based attacks
+*Produces curative antibodies
+|subcat          = 
+|altcat          = 
+|sortkey         = Anti-Venom (Marvel Comics)
+|addpubcat#      = 
+}}
+'''Anti-Venom''' is a fictional [[antihero]] appearing in [[Comic book]]s published by [[Marvel Comics]]. It first appeared in ''[[The Amazing Spider-Man]]'' #569 (August 2008), and was created by [[Dan Slott]] and [[John Romita Jr.]]<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=24}}</ref> The creature belongs to a race of amorphous [[Extraterrestrial life|extraterrestrial]] [[Parasitism|parasites]] known as the [[Symbiote (comics)|Symbiotes]] and is regarded as [[Venom (Marvel Comics character)|Venom]]'s symbiotic brother. His physical features include white "skin", a black face, and spider symbol across his chest.
+
+==Hosts==
+
+===Eddie Brock===
+{{main|Eddie Brock}}
+The 2008 story ''"[[New Ways to Die]]"'' features the first appearance of Anti-Venom.<ref name="Amazing568">{{Cite comic |writer=[[Dan Slott|Slott, Dan]] |penciller=[[John Romita Jr.|Romita Jr., John]] |inker=[[Klaus Janson|Janson, Klaus]] |colorist=White, Dean |letterer=Petit, Cory |editor=Brennan, Tom, Wacker, Stephen, [[Tom Brevoort|Brevoort, Tom]] |story=New Ways to Die, Part One: Back with Vengeance |title=[[The Amazing Spider-Man]] |volume=1 |issue= #568 |date=October 2008 |publisher=[[Marvel Comics]] |location=New York, NY |page=}}</ref> '''[[Eddie Brock]]''' gets a job at a soup kitchen under [[Mister Negative|Martin Li]]. Brock is unknowingly cured of his cancer by Li, who possesses the Lightforce abilities, and Brock believes it to be a miracle.<ref name="Amazing568"/> After Brock is attacked by [[Mac Gargan]] (the Venom symbiote's current host), the Venom symbiote attempts to reunite with Brock, at which point Brock's skin becomes [[Corrosive substance|caustic]] to the Venom symbiote. Brock is enveloped in a new white “Anti-Venom” symbiote when remnants of the Venom symbiote in his body merge with special [[antibodies]] (produced by his [[white blood cells]]) due to Li's Lightforce energy.<ref name="Amazing568"/><ref>{{Cite comic |writer=[[Dan Slott|Slott, Dan]] |penciller=[[John Romita Jr.|Romita Jr., John]] |inker=[[Klaus Janson|Janson, Klaus]] |colorist=White, Dean |letterer=Petit, Cory |editor=Brennan, Tom, Wacker, Stephen, [[Tom Brevoort|Brevoort, Tom]] |story=New Ways To Die, Part Two: The Osborn Supremacy |title=[[The Amazing Spider-Man]] |volume=1 |issue= #569 |date=October 1999 |publisher=[[Marvel Comics]] |location=New York, NY |page=}}</ref> Eddie later sacrificed his Anti-Venom symbiote to cure people from the [[Queen (Marvel Comics)|Spider-Queen]]'s spider-virus during the ''[[Spider-Island]]'' event.
+
+===Second host===
+During the "[[AXIS (comics)|AXIS]]" storyline, a new version of Anti-Venom is seen in the crowd of new heroes attending a "self help" style seminar being held by [[Roderick Kingsley]] (aka the original [[Hobgoblin (comics)|Hobgoblin]]). All the new heroes have been given heroic personas by Kingsley that already exist, but are no longer used. It is not shown whether the new Anti-Venom is indeed a symbiote or just a man in a suit designed to look like the original Anti-Venom symbiote. However, the speech bubble used for the character is stylized in a way to suggest a distortion of the character's voice similar to the way Eddie Brock spoke when bonded with the Anti-Venom symbiote.<ref>{{Cite comic |writer=[[Kevin Shinick|Shinick, Kevin]] |penciller=[[Javier Rodríguez (artist)|Rodríguez, Javier]] |inker=Lopez, Alvaro |colorist=Rodríguez, Javier |letterer=Cowles, Clayton |editor=Pyle, Ellie |story=Got A Problem? Call Hobgoblin! |title=AXIS: Hobgoblin |volume=1 |issue= #1 |date=December 2014 |publisher=[[Marvel Comics]] |location=New York, NY |page=}}</ref>
+
+===Flash Thompson===
+{{main|Flash Thompson}}
+During the "Venom Inc." arc, Dr. Steven used elements of the Anti-Venom symbiote to create a new cure for the Venom symbiote's [[toxic shock syndrome]] that could adapt alongside it. When high concentrations of this serum were exposed to the Venom symbiote's biomass bonded to '''[[Flash Thompson]]''', the Anti-Venom symbiote was recreated.<ref>{{Cite comic |writer=[[Dan Slott|Slott, Dan]], [[Mike Costa|Costa, Mike]] |penciller=[[Ryan Stegman|Stegman, Ryan]] |inker=Stegman, Ryan |colorist=Reber, Brian |letterer=Caramagna, Joe |editor=[[Nick Lowe (comics)|Lowe, Nick]], Lewis, Devin, Stock, Allison, Groneman, Thomas |story=Venom Inc. Part One |title=Amazing Spider-Man: Venom Inc. Alpha |volume=1 |issue= #1 |date=February 2018 |publisher=[[Marvel Comics]] |location=New York, NY |page=}}</ref>
+
+==Powers and abilities==
+Anyone possessed by the Anti-Venom symbiote possesses superhuman strength, durability, and stamina, an accelerated healing factor, genetic memory, detection of its Symbiote offspring, wall-crawling, web-generating abilities, spider-senses, immunity to [[Spider-Man]]'s spider-senses, and camouflage.
+
+Unlike the other Symbiotes, the original Anti-Venom symbiote used by Eddie Brock is immune to fire, heat, and sound-based attacks. In addition, the Anti-Venom symbiote can produce antibodies that can "cure" a person afflicted by things like radioactivity, parasites, diseases, and drugs. The new Anti-Venom symbiote used by Flash Thompson has the ability to heal physical injuries as well.<ref>{{Cite comic |writer=[[Dan Slott|Slott, Dan]], [[Mike Costa|Costa, Mike]] |penciller=[[Ryan Stegman|Stegman, Ryan]], Sandoval, Gerardo |inker=Leisten, Jay |colorist=Reber, Brian |letterer=Caramagna, Joe |editor=[[Nick Lowe (comics)|Lowe, Nick]], Lewis, Devin, Stock, Allison, Groneman, Thomas |story=Venom Inc. Part Six |title=Amazing Spider-Man: Venom Inc. Omega |volume=1 |issue= #1 |date=March 2018 |publisher=[[Marvel Comics]] |location=New York, NY |page=}}</ref> Due to its failed attempt at curing Spider-Man's radiation-based powers, the Anti-Venom symbiote causes Spider-Man's powers to cancel out when they are too close of each other.
+
+However, Anti-Venom does possess a few weaknesses of its own. It is vulnerable to high concentrations of [[Norman Osborn]]'s super-venom via [[Freak (Marvel Comics)#Freak (Spider-Man villain)|Freak]]'s DNA. Additionally since Martin Li's Lightforce touch created the symbiote, [[Mister Negative]]'s [[Darkforce]] touch can interfere or halt Anti-Venom's healing abilities. Also as seen during the Spider-Island event, overusing his healing powers can cause Anti-Venom's powers to weaken.
+
+==Other versions==
+In ''[[What If? (comics)|What If?]] Peter Parker became Kraven the Hunter'' where Peter Parker killed [[Kraven the Hunter]] and replaced Kraven as the new hunter, [[Madame Web]] hired Anti-Venom, [[Spider-Woman (Jessica Drew)|Spider-Woman]] and Mac Gargan in order to stop Peter. Despite being successful in mortally injuring him, they were all defeated.<ref>''What If? Spider-Man'' #1. Marvel Comics.</ref>
+
+==In other media==
+===Television===
+* The Anti-Venom symbiote appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man vs the Sinister Six]]'' animated series, voiced by [[Matt Lanter]].<ref name="Anti-Venom">{{Cite episode |title=Anti-Venom |series=Marvel's Ultimate Spider-Man vs. the Sinister 6 |series-link=Ultimate Spider-Man (TV series) |first1=Matt |last1=Wayne |first2=Jae Woo |last2=Kim |network=[[Disney XD]] |date=April 3, 2016 |season=4 |series-no= |number=8 |minutes= |time=}}</ref> This version is created from a sample of the [[Venom (Marvel Comics character)|Venom]] symbiote, with '''[[Harry Osborn]]''' as its host. In its self-titled episode, the symbiote is created by [[Doctor Octopus]] and [[Morbius, the Living Vampire|Michael Morbius]] as a candidate for the [[Sinister Six]]. Anti-Venom nearly kills Agent Venom, only to be stopped by Spider-Man and Iron Patriot, leaving Anti-Venom inactive and Harry in a coma. During the three-part episode "The Symbiote Saga", Anti-Venom awakens when the [[Carnage (character)|Carnage]] symbiote attacks New York, neutralizing the latter's various hosts. However, it is almost consumed by Carnage's "heart" until Spider-Man's identity is revealed to Harry. Anti-Venom re-bonds with Harry and sacrifices itself to cure New York of Carnage's infestation, but its abilities are later claimed by the [[Mary Jane Watson|Carnage Queen]].
+* The Anti-Venom symbiote appears in the ''[[Spider-Man (2017 TV series)|Spider-Man: Maximum Venom]]'' animated series episode "Vengeance of Venom".<ref>{{cite episode|title=Vengeance of Venom|series=[[Spider-Man (2017 TV series)|Spider-Man: Maximum Venom]]|network=[[Disney XD]]|season=3|number=3|airdate=June 21, 2020}}</ref> This version is created when '''[[Groot]]''' is hit with a sonic device used by [[Aunt May|May Parker]] based on [[Max Modell]]'s suggestion to access the alien's pollination abilities (hybridized with symbiote power), curing the hosts of Klyntar invasion force.
+
+===Video games===
+* The Eddie Brock incarnation of Anti-Venom appears in ''[[Spider-Man: Edge of Time]]'', voiced by [[Steve Blum]].<ref>{{cite web |url=https://www.gameinformer.com/games/spider-man_edge_of_time/b/xbox360/archive/2011/03/31/save-peter-parker-in-spider-man-edge-of-time.aspx |title=Save Peter Parker in Spider-Man: Edge of Time |last=Kato |first=Matthew |date=March 31, 2011 |work=[[Game Informer]] |publisher=[[GameStop]] |access-date=December 11, 2017 |quote=}}</ref> This version is brainwashed by [[Alchemax]] scientist Walker Sloan into serving the latter and nearly kills Spider-Man until [[Spider-Man 2099]] rescues his predecessor and travels to the past to remove Sloan's implants. Freed from Sloan's control, Anti-Venom attacks him, only to accidentally push himself, Sloan, and [[Doctor Octopus]] into Sloan's time portal, fusing them into the monstrous '''Atrocity'''. Spider-Man later defeats Atrocity while helping Spider-Man 2099 save the timeline.
+* The Eddie Brock incarnation of Anti-Venom appears as a playable character in ''[[Spider-Man Unlimited (video game)|Spider-Man Unlimited]]''.
+* The Eddie Brock incarnation of Anti-Venom appears as a playable character in the Facebook game ''[[Marvel: Avengers Alliance]]''.
+* The Anti-Venom symbiote appears as an alternate costume for Eddie Brock / Venom in ''[[Marvel: Future Fight]]''.
+* Several variations of the Anti-Venom costume appear in ''[[Marvel vs Capcom Infinite]]''.
+* The Anti-Venom symbiote appears as an alternate costume for Eddie Brock / Venom in ''[[Marvel Ultimate Alliance 3]]''.
+* The Eddie Brock incarnation of Anti-Venom appears as a playable character in ''[[Marvel Strike Force]]''.
+* The Eddie Brock incarnation of Anti-Venom appears as a playable character in ''[[Marvel Puzzle Quest]]''.
+* The Eddie Brock incarnation of Anti-Venom appears as a playable character in ''[[Marvel Contest of Champions]]''.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marveldatabase|Anti-Venom (Klyntar) (Earth-616)|Anti-Venom Symbiote}}<br>{{Marveldatabase|Anti-Venom II (Klyntar) (Earth-616)|Anti-Venom II Symbiote}}
+
+{{Spider-Man characters}}
+{{Symbiote Family and Hosts}}
+{{John Romita Jr.}}
+
+{{DEFAULTSORT:Anti-Venom}}
+[[Category:Characters created by Dan Slott]]
+[[Category:Characters created by John Romita Jr.]]
+[[Category:Comics characters introduced in 2008]]
+[[Category:Fictional amorphous creatures]]
+[[Category:Fictional characters who can turn invisible]]
+[[Category:Fictional characters with healing abilities]]
+[[Category:Fictional parasites and parasitoids]]
+[[Category:Fictional soldiers]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics characters who are shapeshifters]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics male superheroes]]
+[[Category:Marvel Comics extraterrestrial superheroes]]
+[[Category:Spider-Man characters]]
+[[Category:Merged fictional characters]]

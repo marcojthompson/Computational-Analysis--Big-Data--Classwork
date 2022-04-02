@@ -1,0 +1,91 @@
+{{Use mdy dates|date=April 2021}}
+{{Short description|Fictional superhero}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image=Battlestarm0.png
+|image_size=225
+|caption=Battlestar in ''Civil War Frontline'' #3.<br /> Art by [[Ramon Sachs]].
+|character_name=Battlestar
+|real_name=Lemar Hoskins
+|publisher=[[Marvel Comics]]
+|debut='''As unnamed man:'''<br />''[[Captain America (comic book)|Captain America]]'' #323 (November 1986)<br />'''As Lemar Hoskins:'''<br />''Captain America'' #333 (September 1987)<br />'''As Bucky:'''<br />''Captain America'' #334 (October 1987)<br />'''As Battlestar:'''<br />''Captain America'' #341 (May 1988)
+|creators=[[Mark Gruenwald]]<br />[[Paul Neary]]
+|alliances=Bold Urban Commandos<br />[[Commission on Superhuman Activities|CSA]]<br />[[Wild Pack]]<br />[[U.S. Army]]
+|partners = [[U.S. Agent (comics)|U.S. Agent]]
+|aliases=[[Bucky (Marvel Comics)|Bucky]]
+|powers=Highly trained acrobat and gymnast<br />Exceptional hand-to-hand combatant<br />Superhuman strength, durability and resilience<br />Enhanced endurance<br />Peak-level agility and reflexes<br />Wields a near indestructible [[vibranium]] shield
+}}
+'''Battlestar''' ('''Lemar Hoskins''') is a <!--Do not add "fictional" as it is tautological; superheroes (and characters in general) are by definition implied to be fictionalized to some extent.-->[[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He became the fifth character to assume the alias '''[[Bucky (Marvel Comics)|Bucky]]''' before taking on the name "Battlestar".
+
+[[Clé Bennett]] portrayed the character in the [[Marvel Cinematic Universe]] television series ''[[The Falcon and the Winter Soldier]]'' (2021).
+
+==Publication history==
+Battlestar was created by [[Mark Gruenwald]] and [[Paul Neary]], and was originally introduced as a nameless member of the Bold Urban Commandos in ''[[Captain America (comic book)|Captain America]]'' #323. In ''Captain America'' #327 he is called "Lemar" for the first time, but generally is still treated as interchangeable with the other BUCs. He rises from anonymity in ''Captain America'' #334, in which his full name is revealed and he adopts the identity of Bucky. Gruenwald later explained:
+
+{{quote|I get several letters every month asking when Bucky's coming back. And I said, "Well, if the government's getting a new Captain America, maybe they'd want to get a new Bucky." I had previously introduced three Buckies as the friends and partners of [[U.S. Agent (comics)|the Super-Patriot]], the Bold Urban Commandos, and rather than create someone new, I decided one of them would be ''the'' Bucky. There were two white guys and a black guy, and I said why not the black guy. He at least stood out in the group. Cap had a black partner before in the [[Falcon (comics)|Falcon]], but he's had three other white partners so I said it's time for another black one. Thus, Bucky was black. Now I'm getting a lot of bad mail, and deservedly so, for my ignorance.<ref name="DAK54">{{Cite news |last=Zimmerman |first=Dwight Jon |date=January 1988 |title=Mark Gruenwald |pages=5–23 |work=[[Comics Interview]] |publisher=[[Fictioneer Books]] |issue=54}}</ref>|author=|title=|source=}}
+
+Writer [[Dwayne McDuffie]] informed Gruenwald that "Buck" is considered a derogatory term among African-Americans, as it was a term used before the [[American Civil War]] to refer to male slaves, and said that it was also racially offensive to have an adult black man taking on the identity of a teenage sidekick.<ref>{{Cite web |date=June 15, 2018 |title=Comic Legends: How Dwayne McDuffie Saved Captain America From Racism |url=https://www.cbr.com/captain-america-dwayne-mcduffie-racism/ |access-date=November 29, 2019 |website=CBR |language=en-US}}</ref>  Writer Mark Gruenwald had not known of the racial connotation of "Bucky", having grown up in a region with very few African-Americans,<ref name="DAK54" /> and worked with McDuffie to create a story to address the problem and give Hoskins a new name.
+
+In ''Captain America'' #341 he is renamed Battlestar, dons his own unique costume, and is more explicitly presented as a partner to the new Captain America, rather than a sidekick.<ref>{{Cite book |last=DeFalco |first=Tom |title=The Marvel Encyclopedia |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=45}}</ref> Gruenwald recalled, "The search for a good name for a partner to Cap is a whole half-hour unto itself. ''[laughs]'' We came up with ''every'' single name which was vaguely patriotic, vaguely military, and yet stood on its own, because some day these guys may split up."<ref name="DAK54" /> The name "Battlestar" was ultimately suggested by ''Captain America'' penciler [[Kieron Dwyer]].<ref name="DAK54" />
+
+==Fictional character biography==
+'''Lemar Hoskins''' was born in [[Chicago]], [[Illinois]]. Along with his [[United States Army|Army]] buddies [[U.S. Agent (comics)|John Walker]], [[Left-Winger (comics)|Hector Lennox]], and [[Right-Winger (comics)|Jerome Johnson]], he is given superhuman strength by Dr. [[Karl Malus]] on behalf of the [[Power Broker]], and they become wrestlers.<ref>{{Cite book |last=DeFalco |first=Tom |title=The Marvel Encyclopedia |publisher=Dorling Kindersley |year=2006 |isbn=978-0-7566-2358-6 |page=31}}</ref> The four later form the Bold Urban Commandos (also known as the "BUCkies"), and are employed by John Walker, known as the Super-Patriot. The Buckies stage a fake attack on the Super-Patriot for publicity.<ref>''Captain America'' #323 (November 1986). Marvel Comics.</ref> As a BUCky, Hoskins also attacks a group of foreign students.<ref>''Captain America'' #327. Marvel Comics.</ref>
+
+When the Federal [[Commission on Superhuman Activities]] selects Walker to replace Steve Rogers as [[Captain America]], Hoskins is the only one in his group allowed to accompany the new Captain America. He takes the identity of Bucky (after Rogers' original partner [[Bucky Barnes|Bucky]]) and undergoes a rigorous training under the supervision of the Commission. Walker and Hoskins go undercover on a mission to stop [[Watchdogs (Marvel Comics)|the Watchdogs]].<ref>''Captain America'' #334 (October 1987). Marvel Comics.</ref>
+
+Hoskins, who is [[African American]], is persuaded by another [[Black people|black]] man that "Bucky" is a demeaning title, since American slaveholders often referred to male slaves as "bucks". Consequently, Hoskins takes on the identity of Battlestar, wearing a new costume and wielding a shield patterned after the one Steve Rogers originally carried.<ref>''Captain America'' #341 (May 1988). Marvel Comics.</ref> Captain America and Battlestar capture [[Quill (comics)#Quill (Resistants)|Quill]] but are defeated in combat by Quill's team, the [[Resistants]]. The duo fight and defeat [[Demolition Man (comics)|Demolition Man]].<ref>''Captain America'' #343–344. Marvel Comics.</ref> Battlestar witnesses the [[Flag-Smasher]]'s capture of Captain America. Battlestar persuades Steve Rogers, the original Captain America, to help him rescue Walker from the Flag-Smasher, and they battle [[ULTIMATUM (comics)|ULTIMATUM]].<ref>''Captain America'' #348–349. Marvel Comics.</ref> Battlestar witnesses the faked assassination of Walker and leaves the Commission's employ. He confronts Dr. [[Valerie Cooper]] and learns that Walker is still alive.
+
+Battlestar meets the [[Falcon (comics)|Falcon]] and aids him in battling [[Coachwhip (comics)|Coachwhip]], [[Puff Adder (comics)|Puff Adder]], and [[Rock Python (comics)|Rock Python]] of the [[Serpent Society]].<ref>''Captain America'' #351–352 (April 1989). Marvel Comics.</ref>
+
+Battlestar confronts and fights the [[U.S. Agent (comics)|U.S. Agent]].  Battlestar is captured by the [[Power Tools (comics)|Power Tools]]. Dr. Karl Malus employs the Power Tools to collect previous clients of Power Broker Inc., so that Malus can perform tests upon them. Malus subjects Battlestar to the de-augmentation process. Subsequently, Hoskins fights the Power Broker and his superhuman strength is restored by Malus. Hoskins then reconciles with U.S. Agent.<ref>''Captain America'' #372–378 (July 1990 – October 1990). Marvel Comics.</ref>
+
+When Steve Rogers resumes the identity of Captain America, Battlestar leaves federal employment and returns to his native Chicago. He becomes a member of [[Silver Sable]]'s [[Wild Pack]] for some time.<ref>"''Silver Sable and the Wild Pack'' #3 (August 1992). Marvel Comics.</ref> When Ernst Sablinova, Sable's father, wants the Pack to murder a captive, Battlestar disobeys.<ref>''Silver Sable and the Wild Pack'' #34–35 (March 1995 – April 1995). Marvel Comics.</ref>
+
+During the "[[Civil War (comics)|Civil War]]" storyline, Battlestar allies himself with many opposed to the [[Registration Acts (comics)|Superhuman Registration Act]].<ref>''[[Civil War: Front Line]]'' #3. Marvel Comics.</ref> His group includes, but are not limited to, [[Typeface (comics)|Typeface]], [[Gladiatrix (comics)|Gladiatrix]] and [[Solo (Marvel Comics)|Solo]]. During a visit by reporter [[Sally Floyd (comics)|Sally Floyd]], [[S.H.I.E.L.D.]] agents operating alongside [[Iron Man]] attack and capture many of the group. Floyd and a few others escape.<ref>''Civil War: Front Line'' #4. Marvel Comics.</ref> Battlestar suffers a back injury during the battle and due to an oversight, does not receive proper medical care while in custody in Prison 42. He is freed by Captain America's forces and takes part in the final battle, despite his injuries.<ref>''Civil War Battle Damage Report'' one-shot. Marvel Comics.</ref>
+
+Battlestar later returns, working as a security guard for [[Features of the Marvel Universe#Project_Pegasus|Project Pegasus]]. He witnesses a [[zombie]] invasion from a parallel Earth and the return of [[Jack of Hearts (Marvel Comics)|Jack of Hearts]].<ref>''Marvel Zombies: Supreme'' #1–2. Marvel Comics.</ref> He also participated in an [[A.R.M.O.R.]] raid on a parallel Earth, infested by [[Nazi]] zombies, alongside a team of heroes which included [[Dum-Dum Dugan]] and [[Howard the Duck]].<ref>''Marvel Zombies Destroy!'' #1–5. Marvel Comics.</ref>
+
+It was later mentioned during the "[[Death of Wolverine]]" that an unknown party had managed to steal Battlestar's [[adamantium]] shield.<ref>''Death of Wolverine'' #1. Marvel Comics.</ref>
+
+Battlestar participates in an Unlimited Class Wrestling Federation (UCWF) match against [[Demolition Man (comics)|D-Man]] as part of a charity event. It is revealed that prior to becoming a superhero, Lemar had been an aspiring wrestler whose career was ended by D-Man. The charity fight ends when it is revealed that the current head of the UCWF is trying to abscond with the money raised by the event, and the two heroes team up to stop the robbery.<ref>''Captain America: Sam Wilson'' #15. Marvel Comics.</ref>
+
+During the "[[Secret Empire (comics)|Secret Empire]]" storyline, Battlestar appears as a member of the Underground when [[Hydra (comics)|Hydra]] overtakes the United States.<ref>''Occupy Avengers'' #9. Marvel Comics.</ref>
+
+Lamar is called to investigate the disappearance of US Agent, but is intercepted by a new super soldier who feels that Lemar is not doing enough to promote racial equality. The soldier breaks his arm.<ref>''U.S. Agent'' (2020) #2-3</ref>
+
+==Powers and abilities==
+As a result of the experimental mutagenic process conducted on him by Karl Malus on behalf of the Power Broker, Lemar Hoskins has superhuman strength. His endurance is also heightened albeit to a lesser degree. His agility and reflexes are of the order of a superior Olympic athlete. Additionally, he possesses superhuman durability and resilience, enabling him to survive high impacts and blows, and in one instance to survive being hanged by the [[Watchdogs (Marvel Comics)|Watchdogs]] (a [[Red Skull]] front group).
+
+Battlestar is highly trained in gymnastics and acrobatics. He is an exceptional hand-to-hand combatant, and received rigorous training in unarmed combat and the use of his shield, in a style similar to the original Captain America, from the [[Taskmaster (comics)|Taskmaster]].
+
+===Equipment===
+He carries a near indestructible blunt-end triangular [[adamantium]] shield in combat, and is capable of using it defensively against kinetic and energy based attacks, and offensively as a missile weapon.
+
+==In other media==
+* Battlestar makes a non-speaking appearance in the ''[[Spider-Man (1994 TV series)|Spider-Man]]'' animated television series five-part episode "Six Forgotten Warriors". This version is a member of the [[Wild Pack]].{{citation needed|date=December 2017}}
+* Battlestar makes a non-speaking appearance in the ''[[Spider-Man (2017 TV series)|Spider-Man]]'' animated television series episode "Take Two". This version is a member of the Wild Pack. Battlestar accompanies the group in their theft of the Neuro Cortex from Horizon High for an anonymous client. This leads to a battle with [[Spider-Man]] and [[Doctor Octopus]], during which the web-slinger tricks Battlestar and [[Paladin (comics)|Paladin]] into taking each other out. The Wild Pack are subsequently arrested and imprisoned.<ref>{{Cite episode |title=Take Two |series=Spider-Man |network=Disney XD |season=2 |number=27 |airdate=June 18, 2018}}</ref>
+* Lemar Hoskins / Battlestar appears in the live-action [[Marvel Cinematic Universe]] / [[Disney+]] miniseries ''[[The Falcon and the Winter Soldier]]'', portrayed by [[Clé Bennett]].<ref name="RollingStoneEp2Review">{{Cite web |last=Sepinwall |first=Alan |author-link=Alan Sepinwall |date=March 26, 2021 |title='The Falcon and the Winter Soldier' Recap: Two (Butting) Heads Are Better Than One |url=https://www.rollingstone.com/tv/tv-recaps/falcon-winter-soldier-recap-episode-2-star-spangled-man-1147434/ |url-status=live |archive-url=https://web.archive.org/web/20210326164434/https://www.rollingstone.com/tv/tv-recaps/falcon-winter-soldier-recap-episode-2-star-spangled-man-1147434/ |archive-date=March 26, 2021 |access-date=March 26, 2021 |website=[[Rolling Stone]]}}</ref> Introduced in the episode "[[The Star-Spangled Man]]", this version works for the U.S. Army and is [[John Walker (Marvel Cinematic Universe)|John Walker]]'s friend and partner. In the episode "[[The Whole World Is Watching (The Falcon and the Winter Soldier)|The Whole World Is Watching]]", Hoskins is accidentally killed by [[Karli Morgenthau]] while helping Walker apprehend her and the [[Flag Smashers]].<ref>{{Cite web |date=April 9, 2021 |title=The Falcon and the Winter Soldier episode 4 recap: O Captain! Not my Captain! |url=http://www.theguardian.com/tv-and-radio/2021/apr/09/the-falcon-and-the-winter-soldier-episode-4-recap-o-captain-not-my-captain |access-date=April 9, 2021 |website=[[The Guardian]]}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://worldofblackheroes.com/2010/07/20/battlestar-lemar-hoskins/ World of Black Heroes: Battlestar Biography]
+* [http://www.marvel.com/universe/Battlestar Battlestar entry on Marvel Universe]
+* [http://www.marveldirectory.com/individuals/b/battlestar.htm Battlestar entry on Marvel Directory]
+
+{{Captain America}}
+
+{{DEFAULTSORT:Battlestar (Comics)}}
+[[Category:African-American superheroes]]
+[[Category:Characters created by Mark Gruenwald]]
+[[Category:Characters created by Paul Neary]]
+[[Category:Comics characters introduced in 1986]]
+[[Category:Fictional characters from Chicago]]
+[[Category:Fictional professional wrestlers]]
+[[Category:Fictional shield fighters]]
+[[Category:Fictional United States Army personnel]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics martial artists]]<!--Wrestling is a martial art-->
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:United States-themed superheroes]]
