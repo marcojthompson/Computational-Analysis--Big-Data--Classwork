@@ -2,15 +2,14 @@
 from mrjob.job import MRJob
 class MRWordCounter(MRJob):
 
-        def mapper(self, _, line):
-                for ch in list(line):
-                        yield ch, 1
-                for word in line.split():
-                        yield word, 1
-                yield "lines", 1
+	def mapper(self, _, line):
+		for ch in line.split():
+			firstChars = []
+			for i in range(len(line)):
+				for j in range
 
-        def reducer(self, key, values):
-                yield key, sum(values)
+	def reducer(self, key, values):
+		yield key, sum(values)
 
 if __name__ == '__main__':
-        MRWordCounter.run()
+	MRWordCounter.run()
